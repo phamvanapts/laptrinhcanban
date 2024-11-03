@@ -112,19 +112,11 @@ li:hover {
 }
 /* mystyle.css */
 
-/* Phong cách chung cho trang */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    margin: 0;
-    padding: 0;
-}
-
 .container {
     max-width: 1200px;
     margin: auto;
     padding: 20px;
+    flex: 1;
 }
 
 h1 {
@@ -258,4 +250,31 @@ body {
 
 h3 {
     transition: color 0.3s ease;
+}
+/* Đảm bảo footer chiếm toàn bộ chiều rộng màn hình */
+.footer {
+    width: 100%;
+    background-color: #333; /* Màu nền */
+    color: #fff; /* Màu chữ */
+    padding: 20px 0;
+    text-align: center; /* Căn giữa nội dung */
+    position: relative; /* Để giữ footer ở dưới cùng */
+  }
+
+.footer a {
+color: #fff; /* Màu liên kết */
+text-decoration: none; /* Bỏ gạch chân */
+}
+
+.footer a:hover {
+color: #ddd; /* Màu khi hover */
+}
+.footer .fab.fa-youtube {
+color: #FF0000;
+font-size: 1.2em;
+}
+
+.footer .fab.fa-wordpress {
+color: #21759b; /* Màu xanh của WordPress */
+font-size: 1.2em;
 }
