@@ -26,17 +26,17 @@
             ]
         },
         {
-            "title": "Chương 2: Cấu trúc điều kiện và vòng lặp",
+            "title": "Chương 2: Lệnh đơn và cấu trúc rẻ nhánh",
             "lessons": [
                 {
-                    "title": "Bài 3: Cấu trúc điều kiện",
-                    "videoId": "sBf1owv_j7c",
-                    "description": "Hướng dẫn sử dụng các câu lệnh điều kiện như if, else và switch trong C."
+                    "title": "Tập 5 | Lập trình cơ bản | Giới thiệu - Lệnh đơn - rẽ nhánh",
+                    "videoId": "UtqwaD3PTo0",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C..."
                 },
                 {
-                    "title": "Bài 4: Vòng lặp trong C",
-                    "videoId": "6To7Uh8qE2o",
-                    "description": "Tìm hiểu về các loại vòng lặp trong C, gồm for, while và do-while."
+                    "title": "Tập 6| Lập trình căn bản | Biến - variables",
+                    "videoId": "XxA62HMoXLg",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
                 }
             ]
         },
