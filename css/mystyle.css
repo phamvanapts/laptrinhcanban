@@ -1,0 +1,261 @@
+/* mystyle.css */
+
+/* Định dạng chung cho body và tiêu đề */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: #333;
+    margin: 20px 0;
+}
+
+button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Định dạng cho khung chứa bài học và video */
+.container {
+    display: flex;
+    max-width: 1400px;
+    width: 100%;
+    gap: 20px;
+    padding: 20px;
+}
+
+.lessons, .video-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Định dạng danh sách bài học */
+.lessons ul {
+    list-style: none;
+    padding: 0;
+}
+
+.lessons li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    color: #007bff;
+}
+
+.lessons li:hover {
+    background-color: #f1f1f1;
+}
+
+/* Định dạng khung video */
+iframe {
+    width: 1200px;
+    height: 500px;
+    border: none;
+    border-radius: 8px;
+}
+
+/* CSS để ẩn danh sách bài học */
+.hidden {
+    display: none;
+}
+
+/* Ẩn danh sách bài học trong từng chương mặc định */
+ul.lessons-list {
+    display: none;
+}
+
+h3 {
+    color: #333;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+h3:hover {
+    color: #007bff;
+}
+
+/* Định dạng các mục bài học */
+li {
+    margin: 5px 0;
+    color: #007bff;
+}
+
+li:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+/* Định dạng phần mô tả dưới video */
+.description {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+}
+/* mystyle.css */
+
+/* Phong cách chung cho trang */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    color: #007bff;
+}
+
+h3 {
+    color: #333;
+    font-size: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+h3:hover {
+    color: #007bff;
+}
+
+ul.lessons-list {
+    display: none;
+    list-style-type: none;
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+li {
+    margin: 5px 0;
+    color: #007bff;
+    cursor: pointer;
+}
+
+li:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+.description {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+}
+
+#videoFrame {
+    width: 100%;
+    height: 315px;
+    border: none;
+    margin-bottom: 10px;
+    transition: height 0.3s ease;
+}
+
+/* Thiết bị di động (độ rộng nhỏ hơn 600px) */
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    ul.lessons-list {
+        padding-left: 15px;
+    }
+
+    #videoFrame {
+        height: 200px;  /* Giảm chiều cao video trên màn hình nhỏ */
+    }
+
+    .description {
+        font-size: 14px;
+    }
+}
+
+/* Máy tính bảng (độ rộng từ 600px đến 1024px) */
+@media (min-width: 600px) and (max-width: 1024px) {
+    .container {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    #videoFrame {
+        height: 280px;
+    }
+}
+
+/* Máy tính bàn (độ rộng lớn hơn 1024px) */
+@media (min-width: 1024px) {
+    .container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    ul.lessons-list {
+        padding-left: 20px;
+    }
+
+    #videoFrame {
+        height: 400px;  /* Video lớn hơn trên màn hình rộng */
+    }
+
+    .description {
+        font-size: 16px;
+    }
+}
+
+/* Hiệu ứng chuyển đổi mượt mà */
+body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h3 {
+    transition: color 0.3s ease;
+}

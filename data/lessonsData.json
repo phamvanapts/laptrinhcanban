@@ -1,0 +1,55 @@
+{
+    "chapters": [
+        {
+            "title": "Chương 1: Giới thiệu",
+            "lessons": [
+                {
+                    "title": "Bài 1: Giới thiệu lập trình C",
+                    "videoId": "wf65G7adL3s",
+                    "description": "Giới thiệu về ngôn ngữ lập trình C, lịch sử và ứng dụng trong thực tế."
+                },
+                {
+                    "title": "Tập 2| Lập trình cơ bản | Phương trình cơ bản của máy tính",
+                    "videoId": "zSCj7QYbOms",
+                    "description": "Giải thích các kiểu dữ liệu cơ bản trong C, cách sử dụng và khai báo biến."
+                },
+                {
+                    "title": "Tập 3 | Lập trình căn bản | Lập trình cho máy tính",
+                    "videoId": "mPlhYFtyK3c",
+                    "description": "Video này giải thích về lập trình viên và vai trò của họ trong việc kết nối giữa mã máy và tính năng hữu ích.."
+                },
+                {
+                    "title": "Tập 4 | Lập trình căn bản | Giới thiệu Ngôn ngữ lập trình C - Môi trường thực hành",
+                    "videoId": "awH1t9fVauk",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C."
+                }
+            ]
+        },
+        {
+            "title": "Chương 2: Cấu trúc điều kiện và vòng lặp",
+            "lessons": [
+                {
+                    "title": "Bài 3: Cấu trúc điều kiện",
+                    "videoId": "sBf1owv_j7c",
+                    "description": "Hướng dẫn sử dụng các câu lệnh điều kiện như if, else và switch trong C."
+                },
+                {
+                    "title": "Bài 4: Vòng lặp trong C",
+                    "videoId": "6To7Uh8qE2o",
+                    "description": "Tìm hiểu về các loại vòng lặp trong C, gồm for, while và do-while."
+                }
+            ]
+        },
+        {
+            "title": "Chương 3: Hàm và cách sử dụng hàm",
+            "lessons": [
+                {
+                    "title": "Bài 5: Hàm và cách sử dụng hàm",
+                    "videoId": "HcCkwhMNRXY",
+                    "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
+                }
+            ]
+        }
+    ]
+}
+

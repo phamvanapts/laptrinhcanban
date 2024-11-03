@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lập trình căn bản C</title>
+    <link rel="stylesheet" href="./css/mystyle.css">
+</head>
+<body>
+
+    <h1>Bài học lập trình căn bản C</h1>
+    
+    <!-- Nút để ẩn hiện danh sách bài học -->
+    <button onclick="toggleLessons()">Hiển thị / Ẩn danh sách bài học</button>
+
+    <div class="container">
+        <!-- Danh sách bài học -->
+        <div class="lessons" id="lessonsContainer">
+            <ul id="lessonList">
+                <!-- Nội dung sẽ được thêm động bằng JavaScript -->
+            </ul>
+            
+        </div>
+
+        <!-- Khung video -->
+        <div class="video-container">
+            <iframe id="videoFrame" src="https://www.youtube.com/embed/5q01CNJ5yXk" allowfullscreen></iframe>
+            <div id="videoDescription" class="description">
+                Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/myscript.js"></script>
+</body>
+</html>
