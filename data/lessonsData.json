@@ -94,6 +94,106 @@
                     "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
                 }
             ]
+        },
+        {
+            "title": "Phần 4: Chương trình con",
+            "lessons": [
+                {
+                    "title": "Tập 17 | Lập trình căn bản | Function - Hàm trong lạp trình C",
+                    "videoId": "9G4i7DIa-e8",
+                    "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
+                },
+                {
+                    "title": "Tập 18 | Lập trình căn bản | Ôn tập kiến thức chung",
+                    "videoId": "5dQuvcf7OM",
+                    "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
+                },
+                {
+                    "title": "Tập 19 | Lập trình căn bản | Bài tập ôn tập chung",
+                    "videoId": "Ngfi5uOHrHI",
+                    "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
+                }
+            ]
+        },
+        {
+            "title": "Phần 5: Đệ qui",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 6: Mảng",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 7: Chuỗi ký tự",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 8: Kiểu cấu trúc",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 9: Con trỏ",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 10: Chuỗi ký tự động",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 11: Nhập xuất file",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 12: Thuật toán và giải thuật",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+            ]
         }
     ]
 }
