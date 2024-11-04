@@ -52,15 +52,45 @@
                     "title": "Tập 9 | Lập trình căn bản | biểu thức toán học",
                     "videoId": "P587MH1XB1A",
                     "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
+                },
+                {
+                    "title": "Tập 10 | Lập trình căn bản | Chuyển đổi kiểu dữ liệu",
+                    "videoId": "T712YxIORw0",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
+                },
+                {
+                    "title": "Tập 11 | Lập trình căn bản | Câu điều kiện IF",
+                    "videoId": "ha_bk4t956Y",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
+                },
+                {
+                    "title": "Tập 12 | Lập trình căn bản | Switch - Case",
+                    "videoId": "8qMIMB5h60s",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
+                },
+                {
+                    "title": "Tập 13 | Lập trình căn bản | Ôn tập lý thuyết",
+                    "videoId": "Xv90rzQUgNU",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
                 }
             ]
         },
         {
-            "title": "Chương 3: Hàm và cách sử dụng hàm",
+            "title": "Phần 3: Cấu trúc lặp",
             "lessons": [
                 {
-                    "title": "Bài 5: Hàm và cách sử dụng hàm",
-                    "videoId": "HcCkwhMNRXY",
+                    "title": "Tập 14 | Lập trình căn bản | Giới thiệu vòng lập",
+                    "videoId": "VWGsV53ZMZM",
+                    "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
+                },
+                {
+                    "title": "Tập 15 | Lập trình căn bản | Vòng lập FOR - hướng dẫn chi tiết nhất vòng lập trong C",
+                    "videoId": "li8JDfcCjQ0",
+                    "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
+                },
+                {
+                    "title": "Tập 16 - Lập trình căn bản | Ôn tập vòng lập",
+                    "videoId": "Ce1kqpk_6sI",
                     "description": "Giới thiệu về hàm trong C, cách khai báo và sử dụng hàm hiệu quả."
                 }
             ]
