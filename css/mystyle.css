@@ -33,23 +33,24 @@ button:hover {
 /* Định dạng cho khung chứa bài học và video */
 .container {
     display: flex;
-    max-width: 1400px;
+    /* max-width: 1600px; */
     width: 100%;
     gap: 20px;
     padding: 20px;
 }
-
 .lessons, .video-container {
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* position: sticky; */
 }
 
 /* Định dạng danh sách bài học */
 .lessons ul {
     list-style: none;
     padding: 0;
+    
 }
 
 .lessons li {
@@ -65,8 +66,6 @@ button:hover {
 
 /* Định dạng khung video */
 iframe {
-    width: 1200px;
-    height: 500px;
     border: none;
     border-radius: 8px;
 }
@@ -104,39 +103,6 @@ li:hover {
 }
 
 /* Định dạng phần mô tả dưới video */
-.description {
-    margin-top: 10px;
-    font-size: 16px;
-    color: #555;
-    line-height: 1.5;
-}
-/* mystyle.css */
-
-.container {
-    max-width: 1200px;
-    margin: auto;
-    padding: 20px;
-    flex: 1;
-}
-
-h1 {
-    font-size: 24px;
-    text-align: center;
-    color: #007bff;
-}
-
-h3 {
-    color: #333;
-    font-size: 20px;
-    margin-top: 20px;
-    cursor: pointer;
-    transition: color 0.3s ease;
-}
-
-h3:hover {
-    color: #007bff;
-}
-
 ul.lessons-list {
     display: none;
     list-style-type: none;
@@ -161,7 +127,12 @@ li:hover {
     color: #555;
     line-height: 1.5;
 }
-
+#videoTitle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bolder;
+}
 #videoFrame {
     width: 100%;
     height: 315px;

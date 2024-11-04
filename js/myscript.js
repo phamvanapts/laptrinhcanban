@@ -15,7 +15,7 @@ function displayChapters(chapters) {
             const listItem = document.createElement("li");
             listItem.textContent = lesson.title;
             listItem.style.cursor = "pointer";
-            listItem.onclick = () => loadVideo(lesson.videoId, lesson.description);
+            listItem.onclick = () => loadVideo(lesson.title, lesson.videoId, lesson.description);
             chapterLessons.appendChild(listItem);
         });
 
@@ -32,7 +32,8 @@ function displayChapters(chapters) {
 }
 
 // Hàm để thay đổi video khi nhấp vào bài học
-function loadVideo(videoId, description) {
+function loadVideo(title, videoId, description) {
+    document.getElementById("videoTitle").textContent = title;
     document.getElementById("videoFrame").src = "https://www.youtube.com/embed/" + videoId;
     document.getElementById("videoDescription").textContent = description;
 }

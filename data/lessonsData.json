@@ -1,7 +1,7 @@
 {
     "chapters": [
         {
-            "title": "Chương 1: Giới thiệu",
+            "title": "Phần 1: Giới thiệu",
             "lessons": [
                 {
                     "title": "Bài 1: Giới thiệu lập trình C",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "title": "Chương 2: Lệnh đơn và cấu trúc rẻ nhánh",
+            "title": "Phần 2: Lệnh đơn và cấu trúc rẻ nhánh",
             "lessons": [
                 {
                     "title": "Tập 5 | Lập trình cơ bản | Giới thiệu - Lệnh đơn - rẽ nhánh",
@@ -36,6 +36,21 @@
                 {
                     "title": "Tập 6| Lập trình căn bản | Biến - variables",
                     "videoId": "XxA62HMoXLg",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
+                },
+                {
+                    "title": "Tập 7 | Lập trình căn bản | Kiểu dữ liệu",
+                    "videoId": "SBsKJTkNc7o",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
+                },
+                {
+                    "title": "Tập 8 | Lập trình căn bản | Nhập xuất cơn bản",
+                    "videoId": "TKN1XCwBG_U",
+                    "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
+                },
+                {
+                    "title": "Tập 9 | Lập trình căn bản | biểu thức toán học",
+                    "videoId": "P587MH1XB1A",
                     "description": "Video này giới thiệu về lập trình căn bản, cụ thể là phương pháp giải quyết vấn đề bằng máy tính thông qua lập trình cấu trúc với ngôn ngữ C.."
                 }
             ]
