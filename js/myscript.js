@@ -35,7 +35,7 @@ function displayChapters(chapters) {
 function loadVideo(title, videoId, description) {
     document.getElementById("videoTitle").textContent = title;
     document.getElementById("videoFrame").src = "https://www.youtube.com/embed/" + videoId;
-    document.getElementById("videoDescription").textContent = description;
+    document.getElementById("videoDescription").src = description;
 }
 
 // Tải dữ liệu từ file JSON và hiển thị
@@ -48,5 +48,14 @@ fetch("./data/lessonsData.json")
 
 function toggleLessons() {
     const lessonsContainer = document.getElementById("lessonsContainer");
+    const video = document.getElementById("videoElement"); // Thay "videoElement" bằng ID của phần tử video của bạn
+    
     lessonsContainer.classList.toggle("hidden");
+
+    // Kiểm tra nếu danh sách bài học bị ẩn, áp dụng lớp full-width cho video
+    if (lessonsContainer.classList.contains("hidden")) {
+        video.classList.add("full-width");
+    } else {
+        video.classList.remove("full-width");
+    }
 }

@@ -1,67 +1,18 @@
 /* mystyle.css */
-
-/* Định dạng chung cho body và tiêu đề */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-h1 {
-    color: #333;
-    margin: 20px 0;
-}
-
-button {
-    margin-bottom: 20px;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
-
 /* Định dạng cho khung chứa bài học và video */
 .container {
     display: flex;
-    /* max-width: 1600px; */
+    max-width: 1600px;
     width: 100%;
     gap: 20px;
     padding: 20px;
 }
-.lessons, .video-container {
+.video-container {
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    /* position: sticky; */
-}
-
-/* Định dạng danh sách bài học */
-.lessons ul {
-    list-style: none;
-    padding: 0;
     
-}
-
-.lessons li {
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
-    cursor: pointer;
-    color: #007bff;
-}
-
-.lessons li:hover {
-    background-color: #f1f1f1;
 }
 
 /* Định dạng khung video */
@@ -248,4 +199,10 @@ font-size: 1.2em;
 .footer .fab.fa-wordpress {
 color: #21759b; /* Màu xanh của WordPress */
 font-size: 1.2em;
+}
+/**
+*/
+.full-width {
+    width: 100vw; /* 100% chiều rộng màn hình */
+    height: auto;
 }
