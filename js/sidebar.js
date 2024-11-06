@@ -8,9 +8,7 @@ sidebarTitleEl.addEventListener('click', function () {
     sidebarEl.classList.toggle('active');
     if(isHiddenLesson){
         isHiddenLesson = !isHiddenLesson;
-        // alert("isHiddenLesson");
         lessonList.style.display = "block";
-        // console.log(isHiddenLesson);
     }else{
         isHiddenLesson = !isHiddenLesson;
         lessonList.style.display = "none";
