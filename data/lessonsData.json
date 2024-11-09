@@ -137,6 +137,11 @@
                     "title": "Tập 22 | Lập trình căn bản | Mảng (array) trong lập trình C",
                     "videoId": "laI9BJ_8I1I",
                     "description": "https://docs.google.com/document/d/1-rVChehEeQO8Oe8jq6uNHcu5xVvjHwrF-O7-epOBLzQ/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 23 | Lập trình căn bản | Ôn tập Mảng",
+                    "videoId": "iE42_IRzP70",
+                    "description": "https://docs.google.com/document/d/1rCcqPjEkWjEqeVG8S3qXoqBsoOlHrZhJMQMurUC9ExY/edit?usp=sharing"
                 }
             ]
         },
@@ -144,9 +149,14 @@
             "title": "Phần 7: Chuỗi ký tự",
             "lessons": [
                 {
-                    "title": "",
-                    "videoId": "",
-                    "description": ""
+                    "title": "Tập 24 | Lập trình căn bản | Chuỗi",
+                    "videoId": "Z5MDgfmkLdQ",
+                    "description": "https://docs.google.com/document/d/1KICv6JY5unwAB7cK1MIr4PYKew7-EHYR5pBNQ5t2xX0/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 25 | Lập trình căn bản | Ôn tập Chuỗi",
+                    "videoId": "nCDtGVPotNk",
+                    "description": "https://docs.google.com/document/d/1t1BXKPfAL_2kaf0gTsrxHxm8ehBWVkxiVRH9rPbjNi8/edit?usp=sharing"
                 }
             ]
         },
