@@ -164,8 +164,8 @@
             "title": "Phần 8: Kiểu cấu trúc",
             "lessons": [
                 {
-                    "title": "",
-                    "videoId": "",
+                    "title": "Tập 26 | Lập trình căn bản | Kiểu cấu trúc",
+                    "videoId": "9e36qOZAqqc",
                     "description": ""
                 }
             ]
@@ -174,9 +174,14 @@
             "title": "Phần 9: Con trỏ",
             "lessons": [
                 {
-                    "title": "",
-                    "videoId": "",
-                    "description": ""
+                    "title": "Tập 28 | Lập trình căn bản | Con trỏ - Định nghĩa",
+                    "videoId": "VFYWw2O-7eM",
+                    "description": "https://docs.google.com/document/d/152ZSRFN2Y2ooX468Ux3BkmhaTKaKy1NWCR9uv4Qj59U/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 29 | Lập trình căn bản | Con trỏ - Khai báo",
+                    "videoId": "omHSqmnjEM4",
+                    "description": "https://docs.google.com/document/d/1D19gqXezNoUjxbJJ1PN2nLi8jNNNTF75iw8aqKHUoVM/edit?usp=sharing"
                 }
             ]
         },
