@@ -189,9 +189,14 @@
                     "description": "https://docs.google.com/document/d/1d6-b3AyEIL7GV5kZeD0WrDyxZCClTxEpa_NTZd2XI0o/edit?usp=sharing"
                 },
                 {
-                    "title": "Tập 31 | Lập trình căn bản | Ôn tập - đang lưu video",
-                    "videoId": "",
-                    "description": ""
+                    "title": "Tập 31 | Lập trình căn bản | Ôn tập chung",
+                    "videoId": "-wmZ0EOLi9c",
+                    "description": "https://docs.google.com/document/d/1D_O9GlNrYpdqj1YFXDpKKAETasIJWAR7CYaEaTaAO18/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 32 | Lập trình căn bản | Ôn tập con trỏ",
+                    "videoId": "-wmZ0EOLi9c",
+                    "description": "https://docs.google.com/document/d/1D_O9GlNrYpdqj1YFXDpKKAETasIJWAR7CYaEaTaAO18/edit?usp=sharing"
                 }
             ]
         },
@@ -199,9 +204,19 @@
             "title": "Phần 10: Chuỗi ký tự động",
             "lessons": [
                 {
-                    "title": "",
-                    "videoId": "",
-                    "description": ""
+                    "title": "Tập 33 | Lập trình căn bản | Chuỗi ký tự động",
+                    "videoId": "irWHHqiKpG0",
+                    "description": "https://docs.google.com/document/d/1cJ75erJ0XPNmFwWm2m5iamsDOWCDNt_jtAFgroG4Yb0/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 34 | Lập trình căn bản | Ôn tập Chuỗi ký tự động",
+                    "videoId": "jkR_vD-K9k4",
+                    "description": "https://docs.google.com/document/d/1DOji9THFsAl8aXw3-EcJ03Kf13-XYFj1alPP9g_EVp0/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 35 | Lập trình căn bản | Bài tập thực hành chuỗi ký tự động",
+                    "videoId": "HpPLqwYEnAk",
+                    "description": "https://docs.google.com/document/d/1mvhEY2yg5BeZP4Mmf_2Z8fVPiGtW7FqFIlTAPaPRqB0/edit?usp=sharing"
                 }
             ]
         },
@@ -209,22 +224,18 @@
             "title": "Phần 11: Nhập xuất file",
             "lessons": [
                 {
-                    "title": "",
+                    "title": "Tập 36 | Lập trình căn bản | Thao tác với tập tin",
                     "videoId": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "title": "Phần 12: Thuật toán và giải thuật",
-            "lessons": [
+                    "description": "https://docs.google.com/document/d/1oUxGw89E-gp1jm9s6xZtxbaWpfp7PZ752ZG4VebzVxU/edit?usp=sharing"
+                },
                 {
-                    "title": "",
+                    "title": "Tập 37 | Lập trình căn bản | Ví dụ thực hành tập tin",
                     "videoId": "",
                     "description": ""
                 }
             ]
         }
+        
     ]
 }
 
